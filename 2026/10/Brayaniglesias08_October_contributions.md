@@ -4,6 +4,7 @@ A summary of contributions by @Brayaniglesias08 in October 2026:
 
 - Contribution: fix(common_types): parse substate requirement and input declaration suffixes from the right (#3094) (tari-project/tari-ootle#3111) (tracked in `tari-project/special_contributions#312`).
 - Contribution: feat(walletd): add cookie-file authentication for local clients (#3050) (tari-project/tari-ootle#3113) (tracked in `tari-project/special_contributions#323`).
+- Contribution: feat(walletd): require setup token for first passkey and add reset-passkeys (#3049) (tari-project/tari-ootle#3114) (tracked in `tari-project/special_contributions#395`).
 - Security report: tari-ootle unbacked Validator Fee Minting (Token Supply Inflation) and Permanent Cross-Shard Deadlock When Switching a Multishard Transaction to fee_intent_only (GHSA-5g43-f93x-5x7q, fixed in 	ari-project/tari-ootle#3191) (tracked in `tari-project/special_contributions#382`).
 
 ### Contribution (`tari-project/tari-ootle#3149` - Issue #356)
