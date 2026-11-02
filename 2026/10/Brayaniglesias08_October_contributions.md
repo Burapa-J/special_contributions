@@ -30,3 +30,8 @@ A summary of contributions by @Brayaniglesias08 in October 2026:
 - **PR:** [tari-project/tari-ootle#3189](https://github.com/tari-project/tari-ootle/pull/3189)
 - **Issue:** [tari-project/special_contributions#381](https://github.com/tari-project/special_contributions/issues/381)
 - **Summary:** `fix(wallet): verify indexer epoch, checkpoint layout, and substate reads at sign-act points`
+
+### Contribution (`tari-project/tari-ootle#3233` - Issue #400)
+- **PR:** [tari-project/tari-ootle#3233](https://github.com/tari-project/tari-ootle/pull/3233)
+- **Issue:** [tari-project/special_contributions#400](https://github.com/tari-project/special_contributions/issues/400)
+- **Summary:** `fix(consensus,transaction): fix future TC proposal buffering, catch-up batch progress, persisted NewView height, and blob/migrate input & template discovery`
