@@ -43,4 +43,12 @@ Engine-op host work unmetered in WasmProcess::handle leading to
 tari-ootle. The fix was applied by the Tari team in 
 tari-ootle#2934.
 
+## Report 6 - GHSA-43mw-rj55-36cw
+
+Reported by (@Char0n1507)
+
+tari_walletd multi-indexer failover defeated by stalling indexer,
+no read timeout exists on any request path in tari-ootle.
+The fix was applied by the Tari team in tari-ootle#2802.
+
 Technical details remain in the advisory until it is published.
