@@ -46,3 +46,4 @@ A summary of contributions by @Ninkuki in November 2026:
 - [tari-project/tari-ootle#3360](https://github.com/tari-project/tari-ootle/pull/3360): `fix(consensus): validate abort reason, fees, and evidence on SomeAccept` (tracked in `tari-project/special_contributions#538`).
 - [tari-project/tari-ootle#3333](https://github.com/tari-project/tari-ootle/pull/3333): `test(consensus): cover block change set pledges in LocalAccept and AllAccept validation` (tracked in `tari-project/special_contributions#539`).
 - [tari-project/tari-ootle#3596](https://github.com/tari-project/tari-ootle/pull/3596): `fix(wallet_sdk): remove stale destination SQLite sidecars and fix API error handling` (tracked in `tari-project/special_contributions#540`).
+- [tari-project/tari-ootle#3310](https://github.com/tari-project/tari-ootle/pull/3310): `test(consensus): cover lock/pledge ordering and extract LocalAccept proposer helpers` (tracked in `tari-project/special_contributions#542`).
