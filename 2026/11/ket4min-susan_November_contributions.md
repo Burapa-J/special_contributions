@@ -1,0 +1,29 @@
+# November 2026 Contributions — ket4min-susan
+
+A summary of contributions by @ket4min-susan in November 2026:
+
+- [tari-project/tari-ootle#3237](https://github.com/tari-project/tari-ootle/pull/3237): ix(networking): fix IPv6 global scope check, bootstrap completion, and topic peers (tracked in 	ari-project/special_contributions#396).
+- [tari-project/tari-ootle#3238](https://github.com/tari-project/tari-ootle/pull/3238): ix(swarm): fix 0.x/0.0.x semantic_version_eq, protocol parsing, and default substate addresses (tracked in 	ari-project/special_contributions#397).
+- [tari-project/tari-ootle#3239](https://github.com/tari-project/tari-ootle/pull/3239): ix(common_types): fix committee max_node_failures formula, ShardScope bounds, and duplicate validator addresses (tracked in 	ari-project/special_contributions#398).
+- [tari-project/tari-ootle#3242](https://github.com/tari-project/tari-ootle/pull/3242): ix(indexer_lib): bound batch cache writes, fix unsettled fallback, and validate substate addresses (tracked in 	ari-project/special_contributions#399).
+- [tari-project/tari-ootle#3240](https://github.com/tari-project/tari-ootle/pull/3240): ix(swarm_daemon): fix duplicate L1 watch paths, registration count, and reply handling (tracked in 	ari-project/special_contributions#403).
+- [tari-project/tari-ootle#3244](https://github.com/tari-project/tari-ootle/pull/3244): ix(template_build): support stateless template docs, extra_entry points, and cargo clean warnings (tracked in 	ari-project/special_contributions#406).
+- [tari-project/tari-ootle#3243](https://github.com/tari-project/tari-ootle/pull/3243): ix(libp2p-substream): drain behaviour events in poll and fix connection drop cleanup (tracked in 	ari-project/special_contributions#407).
+- [tari-project/tari-ootle#3247](https://github.com/tari-project/tari-ootle/pull/3247): ix(ootle_serde): fix binary option serialization in hex/duration types and error reporting (tracked in 	ari-project/special_contributions#409).
+- [tari-project/tari-ootle#3249](https://github.com/tari-project/tari-ootle/pull/3249): ix(engine): enforce template binding and CallScope ownership on ComponentAddressAllocation (tracked in 	ari-project/special_contributions#414).
+- [tari-project/tari-ootle#3250](https://github.com/tari-project/tari-ootle/pull/3250): ix(engine): reject returned buckets and address allocations the frame did not own (tracked in 	ari-project/special_contributions#415).
+- Security report: GHSA-fqc5-7vfv-r2q6: consensus: multishard output-lock abort drops foreign output shard groups from Evidence (fixed in 	ari-project/tari-ootle, tracked in 	ari-project/special_contributions#419).
+- [tari-project/tari-ootle#3251](https://github.com/tari-project/tari-ootle/pull/3251): ix(transaction_manifest): validate call/arg paths, local call args, and instruction count limits (tracked in 	ari-project/special_contributions#421).
+- [tari-project/tari-ootle#3252](https://github.com/tari-project/tari-ootle/pull/3252): ix(peersync): fix want-list completion check, semaphore release, and peer eviction (tracked in 	ari-project/special_contributions#425).
+- [tari-project/tari-ootle#3254](https://github.com/tari-project/tari-ootle/pull/3254): ix(engine): charge execution fees at on_fee_checkpoint and before aborting on resource exhaustion (tracked in 	ari-project/special_contributions#428).
+- Security report: GHSA-j2cg-mjxf-qjvr: componentAddressAllocation cross-template deterministic public-key address hijacking (fixed in 	ari-project/tari-ootle, tracked in 	ari-project/special_contributions#432).
+- [tari-project/tari-ootle#3257](https://github.com/tari-project/tari-ootle/pull/3257): ix(validator_node_client): handle null JSON-RPC error, HTTP status codes, and non-UTF8 response bodies (tracked in 	ari-project/special_contributions#433).
+- [tari-project/tari-ootle#3258](https://github.com/tari-project/tari-ootle/pull/3258): ix(libp2p-messaging): fix sink cycling, connection-close events, and dial backoff logic (tracked in 	ari-project/special_contributions#434).
+- [tari-project/tari-ootle#3261](https://github.com/tari-project/tari-ootle/pull/3261): ix(walletd,wallet_sdk): enforce lock ownership on submit and reject foreign output locks (tracked in 	ari-project/special_contributions#443).
+- Security report: GHSA-73fq-57j2-w937: walletd / wallet_sdk: Lock Ownership Bypass in submit_transaction allows arbitrary substate lock exhaustion (fixed in 	ari-project/tari-ootle, tracked in 	ari-project/special_contributions#444).
+- [tari-project/tari-ootle#3282](https://github.com/tari-project/tari-ootle/pull/3282): ix(transaction_validation): enforce permitted fee instructions and max instruction count (tracked in 	ari-project/special_contributions#471).
+- [tari-project/tari-ootle#3292](https://github.com/tari-project/tari-ootle/pull/3292): ix(engine): reject transient handles in spend-script bound args (tracked in 	ari-project/special_contributions#479).
+- [tari-project/tari-ootle#3345](https://github.com/tari-project/tari-ootle/pull/3345): ix(wallet): pass multiple lock IDs through transaction submission (tracked in 	ari-project/special_contributions#528).
+- [tari-project/tari-ootle#3382](https://github.com/tari-project/tari-ootle/pull/3382): perf(consensus): let later local-only claims lock a ValidatorFeePool substate already claimed in the same block (tracked in 	ari-project/special_contributions#555).
+- [tari-project/tari-ootle#3483](https://github.com/tari-project/tari-ootle/pull/3483): ix(consensus): reject invalid, shard-group-mismatched and empty foreign proposals (tracked in 	ari-project/special_contributions#572).
+- [tari-project/tari-ootle#3582](https://github.com/tari-project/tari-ootle/pull/3582): ix(walletd,wallet_sdk): verify epoch and checkpoint layout via ValidatorNodeClient (tracked in 	ari-project/special_contributions#597).
