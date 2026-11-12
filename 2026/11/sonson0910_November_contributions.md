@@ -14,3 +14,4 @@ A summary of security contributions by @sonson0910 in November 2026:
 * Security report: `GHSA-xfcc-w7c2-q869` (fixed in `tari-project/tari-ootle#3227`, tracked in `tari-project/special_contributions#520`). Testing was performed locally only; no shared network was touched.
 * Contribution in `tari-project/tari-ootle#3613` (tracked in `tari-project/special_contributions#546`).
 * Contribution in `tari-project/tari-ootle#3614` (tracked in `tari-project/special_contributions#557`).
+* Contribution in `tari-project/tari-ootle#3633` (tracked in `tari-project/special_contributions#577`).
